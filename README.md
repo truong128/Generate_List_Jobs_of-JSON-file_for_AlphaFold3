@@ -1,4 +1,4 @@
-![image](https://github.com/truong128/Generate_List_Jobs_of-JSON-file_for_AlphaFold3/blob/main/List_Jobs_JSON.png)
+![image](https://github.com/truong128/Generate_List_Jobs_of-JSON-file_for_AlphaFold3/blob/main/JSON.png)
 
 # Generate_List_Jobs_of-JSON-file_for_AlphaFold3
 
