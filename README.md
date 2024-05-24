@@ -1,6 +1,6 @@
 ![image](https://github.com/truong128/Generate_List_Jobs_of-JSON-file_for_AlphaFold3/blob/main/JSON.png)
 
-# Generate_List_Jobs_of-JSON-file_for_AlphaFold3
+# [For DNA and Protein interactions] Generate_List_Jobs_of-JSON-file_for_AlphaFold3
 
 ## Step 1: Prepare the fasta file of DNA sequences
 
